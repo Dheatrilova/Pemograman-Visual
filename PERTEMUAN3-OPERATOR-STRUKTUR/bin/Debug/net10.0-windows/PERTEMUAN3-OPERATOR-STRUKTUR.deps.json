@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "PERTEMUAN3-OPERATOR-STRUKTUR/1.0.0": {
+        "runtime": {
+          "PERTEMUAN3-OPERATOR-STRUKTUR.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PERTEMUAN3-OPERATOR-STRUKTUR/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
