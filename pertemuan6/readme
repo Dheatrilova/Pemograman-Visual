@@ -1,0 +1,165 @@
+# 👩‍💻 Praktikan
+**Nama:** Dhea Tri Lova Simanjuntak  
+**NIM:** 241712017  
+**Kom:** A1  
+**Praktikum:** Pemrograman Visual  
+
+---
+
+# 🔗 1. Koneksi Database
+Aplikasi Visual Basic .NET membutuhkan koneksi agar dapat berkomunikasi dengan database PostgreSQL.
+Koneksi digunakan ketika aplikasi ingin melakukan proses seperti:
+
+```text
+Aplikasi
+   ↓
+Membuka koneksi
+   ↓
+Mengakses database
+   ↓
+Menjalankan query
+   ↓
+Menerima / mengubah data
+   ↓
+Menutup koneksi
+```
+
+
+# 📦 2. Struktur Project
+Struktur project pada pertemuan ini terdiri dari beberapa file utama:
+```text
+Pertemuan6/
+│
+├── bin/
+├── obj/
+├── My Project/
+│
+├── Form1.vb
+├── Form1.Designer.vb
+├── Form1.resx
+├── ModDatabase.vb
+├── ModFunction.vb
+├── ModQuery.vb
+├── appsettings.json
+├── pertemuan6.slnx
+├── pertemuan6.vbproj
+└── README.md
+```
+
+---
+
+# ⚙️ 3. Fungsi File
+### `Form1.vb`
+Digunakan untuk mengatur proses dan interaksi pada form aplikasi.
+### `ModDatabase.vb`
+Digunakan untuk menangani koneksi aplikasi dengan database PostgreSQL.
+### `ModQuery.vb`
+Digunakan untuk menyimpan atau menjalankan query yang berhubungan dengan database.
+### `ModFunction.vb`
+Digunakan untuk menyimpan fungsi-fungsi yang membantu proses aplikasi.
+### `appsettings.json`
+Digunakan untuk menyimpan konfigurasi yang diperlukan oleh aplikasi.
+
+
+# 🗃️ 4. Operasi Database
+Database dapat digunakan untuk melakukan beberapa operasi dasar.
+### Menampilkan Data
+Aplikasi mengambil data dari database PostgreSQL dan menampilkannya pada aplikasi.
+
+```text
+Database
+    ↓
+Query SELECT
+    ↓
+Data
+    ↓
+Aplikasi
+```
+
+### Menambahkan Data
+Data yang dimasukkan melalui aplikasi dapat disimpan ke database.
+```text
+Input Pengguna
+      ↓
+Query INSERT
+      ↓
+PostgreSQL
+```
+
+### Mengubah Data
+Data yang sudah tersimpan dapat diperbarui menggunakan query `UPDATE`.
+
+```text
+Data Lama
+   ↓
+Query UPDATE
+   ↓
+Data Baru
+```
+
+### Menghapus Data
+Data yang tidak diperlukan dapat dihapus menggunakan query `DELETE`.
+
+```text
+Data
+ ↓
+Query DELETE
+ ↓
+Data Terhapus
+```
+
+---
+
+# 🔄 5. Alur Kerja Aplikasi
+Alur kerja aplikasi pada pertemuan ini dapat digambarkan sebagai berikut:
+
+```text
+┌──────────────────────┐
+│     Aplikasi VB.NET │
+└──────────┬───────────┘
+           ↓
+┌──────────────────────┐
+│   Membuka Koneksi    │
+│      Database        │
+└──────────┬───────────┘
+           ↓
+┌──────────────────────┐
+│       Supabase       │
+└──────────┬───────────┘
+           ↓
+┌──────────────────────┐
+│      PostgreSQL      │
+└──────────┬───────────┘
+           ↓
+┌──────────────────────┐
+│ Menjalankan Query    │
+│ SELECT / INSERT /    │
+│ UPDATE / DELETE      │
+└──────────┬───────────┘
+           ↓
+┌──────────────────────┐
+│   Hasil ditampilkan  │
+│     pada aplikasi    │
+└──────────────────────┘
+```
+
+---
+
+# 💻 6. Implementasi
+Pada project ini, database digunakan sebagai media penyimpanan data aplikasi.
+Beberapa proses yang dapat dilakukan melalui aplikasi adalah:
+* Membuka koneksi ke database
+* Menampilkan data
+* Menambahkan data
+* Mengubah data
+* Menghapus data
+Dengan menggunakan database, data tidak hanya tersimpan selama aplikasi sedang dijalankan, tetapi dapat disimpan dan digunakan kembali.
+
+
+## 🛠️ Tools yang Digunakan
+* Visual Studio
+* Visual Basic .NET
+* Supabase
+* PostgreSQL
+* Windows Forms
+Kalau kamu mau README-nya **benar-benar mengikuti isi kode yang ada di `ModDatabase.vb`, `ModQuery.vb`, dan `ModFunction.vb`**, kirim/attach ketiga file itu atau screenshot kodenya. Nanti aku bisa buat bagian **"Implementasi"**-nya berdasarkan kode aslinya, jadi nggak ada bagian yang ngarang.
