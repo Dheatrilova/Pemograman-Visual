@@ -1,0 +1,17 @@
+D:\PPT PRAKTIKUM PBO\pertemuan-11-kode\DemoWindowsApi\bin\Debug\net10.0-windows\DemoWindowsApi.exe
+D:\PPT PRAKTIKUM PBO\pertemuan-11-kode\DemoWindowsApi\bin\Debug\net10.0-windows\DemoWindowsApi.deps.json
+D:\PPT PRAKTIKUM PBO\pertemuan-11-kode\DemoWindowsApi\bin\Debug\net10.0-windows\DemoWindowsApi.runtimeconfig.json
+D:\PPT PRAKTIKUM PBO\pertemuan-11-kode\DemoWindowsApi\bin\Debug\net10.0-windows\DemoWindowsApi.dll
+D:\PPT PRAKTIKUM PBO\pertemuan-11-kode\DemoWindowsApi\bin\Debug\net10.0-windows\DemoWindowsApi.pdb
+D:\PPT PRAKTIKUM PBO\pertemuan-11-kode\DemoWindowsApi\obj\Debug\net10.0-windows\DemoWindowsApi.FrmDemoApi.resources
+D:\PPT PRAKTIKUM PBO\pertemuan-11-kode\DemoWindowsApi\obj\Debug\net10.0-windows\DemoWindowsApi.vbproj.GenerateResource.cache
+D:\PPT PRAKTIKUM PBO\pertemuan-11-kode\DemoWindowsApi\obj\Debug\net10.0-windows\DemoWindowsApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\PPT PRAKTIKUM PBO\pertemuan-11-kode\DemoWindowsApi\obj\Debug\net10.0-windows\DemoWindowsApi.AssemblyInfoInputs.cache
+D:\PPT PRAKTIKUM PBO\pertemuan-11-kode\DemoWindowsApi\obj\Debug\net10.0-windows\DemoWindowsApi.AssemblyInfo.vb
+D:\PPT PRAKTIKUM PBO\pertemuan-11-kode\DemoWindowsApi\obj\Debug\net10.0-windows\DemoWindowsApi.vbproj.CoreCompileInputs.cache
+D:\PPT PRAKTIKUM PBO\pertemuan-11-kode\DemoWindowsApi\obj\Debug\net10.0-windows\DemoWindowsApi.dll
+D:\PPT PRAKTIKUM PBO\pertemuan-11-kode\DemoWindowsApi\obj\Debug\net10.0-windows\refint\DemoWindowsApi.dll
+D:\PPT PRAKTIKUM PBO\pertemuan-11-kode\DemoWindowsApi\obj\Debug\net10.0-windows\DemoWindowsApi.pdb
+D:\PPT PRAKTIKUM PBO\pertemuan-11-kode\DemoWindowsApi\obj\Debug\net10.0-windows\DemoWindowsApi.genruntimeconfig.cache
+D:\PPT PRAKTIKUM PBO\pertemuan-11-kode\DemoWindowsApi\obj\Debug\net10.0-windows\ref\DemoWindowsApi.dll
+D:\PPT PRAKTIKUM PBO\pertemuan-11-kode\DemoWindowsApi\obj\Debug\net10.0-windows\DemoWind.C808D3C0.Up2Date
