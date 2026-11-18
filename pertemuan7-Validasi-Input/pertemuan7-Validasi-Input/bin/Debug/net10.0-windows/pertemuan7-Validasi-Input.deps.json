@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "pertemuan7-Validasi-Input/1.0.0": {
+        "runtime": {
+          "pertemuan7-Validasi-Input.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pertemuan7-Validasi-Input/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
