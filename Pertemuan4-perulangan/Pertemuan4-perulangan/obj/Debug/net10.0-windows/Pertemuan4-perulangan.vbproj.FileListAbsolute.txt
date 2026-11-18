@@ -1,0 +1,17 @@
+D:\PPT PRAKTIKUM PBO\Pertemuan4-perulangan\Pertemuan4-perulangan\bin\Debug\net10.0-windows\Pertemuan4-perulangan.exe
+D:\PPT PRAKTIKUM PBO\Pertemuan4-perulangan\Pertemuan4-perulangan\bin\Debug\net10.0-windows\Pertemuan4-perulangan.deps.json
+D:\PPT PRAKTIKUM PBO\Pertemuan4-perulangan\Pertemuan4-perulangan\bin\Debug\net10.0-windows\Pertemuan4-perulangan.runtimeconfig.json
+D:\PPT PRAKTIKUM PBO\Pertemuan4-perulangan\Pertemuan4-perulangan\bin\Debug\net10.0-windows\Pertemuan4-perulangan.dll
+D:\PPT PRAKTIKUM PBO\Pertemuan4-perulangan\Pertemuan4-perulangan\bin\Debug\net10.0-windows\Pertemuan4-perulangan.pdb
+D:\PPT PRAKTIKUM PBO\Pertemuan4-perulangan\Pertemuan4-perulangan\obj\Debug\net10.0-windows\Pertemuan4_perulangan.FrmPerulangan.resources
+D:\PPT PRAKTIKUM PBO\Pertemuan4-perulangan\Pertemuan4-perulangan\obj\Debug\net10.0-windows\Pertemuan4-perulangan.vbproj.GenerateResource.cache
+D:\PPT PRAKTIKUM PBO\Pertemuan4-perulangan\Pertemuan4-perulangan\obj\Debug\net10.0-windows\Pertemuan4-perulangan.GeneratedMSBuildEditorConfig.editorconfig
+D:\PPT PRAKTIKUM PBO\Pertemuan4-perulangan\Pertemuan4-perulangan\obj\Debug\net10.0-windows\Pertemuan4-perulangan.AssemblyInfoInputs.cache
+D:\PPT PRAKTIKUM PBO\Pertemuan4-perulangan\Pertemuan4-perulangan\obj\Debug\net10.0-windows\Pertemuan4-perulangan.AssemblyInfo.vb
+D:\PPT PRAKTIKUM PBO\Pertemuan4-perulangan\Pertemuan4-perulangan\obj\Debug\net10.0-windows\Pertemuan4-perulangan.vbproj.CoreCompileInputs.cache
+D:\PPT PRAKTIKUM PBO\Pertemuan4-perulangan\Pertemuan4-perulangan\obj\Debug\net10.0-windows\Pertemuan4-perulangan.dll
+D:\PPT PRAKTIKUM PBO\Pertemuan4-perulangan\Pertemuan4-perulangan\obj\Debug\net10.0-windows\refint\Pertemuan4-perulangan.dll
+D:\PPT PRAKTIKUM PBO\Pertemuan4-perulangan\Pertemuan4-perulangan\obj\Debug\net10.0-windows\Pertemuan4-perulangan.pdb
+D:\PPT PRAKTIKUM PBO\Pertemuan4-perulangan\Pertemuan4-perulangan\obj\Debug\net10.0-windows\Pertemuan4-perulangan.genruntimeconfig.cache
+D:\PPT PRAKTIKUM PBO\Pertemuan4-perulangan\Pertemuan4-perulangan\obj\Debug\net10.0-windows\ref\Pertemuan4-perulangan.dll
+D:\PPT PRAKTIKUM PBO\Pertemuan4-perulangan\Pertemuan4-perulangan\obj\Debug\net10.0-windows\Pertemua.F2044397.Up2Date

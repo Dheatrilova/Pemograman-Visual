@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Pertemuan4-perulangan/1.0.0": {
+        "runtime": {
+          "Pertemuan4-perulangan.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pertemuan4-perulangan/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
