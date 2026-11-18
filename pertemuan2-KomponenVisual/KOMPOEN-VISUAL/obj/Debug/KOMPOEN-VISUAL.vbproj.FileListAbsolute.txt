@@ -1,0 +1,12 @@
+D:\pertemuan2-KomponenVisual\KOMPOEN-VISUAL\KOMPOEN-VISUAL\obj\Debug\KOMPOEN-VISUAL.vbproj.AssemblyReference.cache
+D:\pertemuan2-KomponenVisual\KOMPOEN-VISUAL\KOMPOEN-VISUAL\obj\Debug\KOMPOEN_VISUAL.Form1.resources
+D:\pertemuan2-KomponenVisual\KOMPOEN-VISUAL\KOMPOEN-VISUAL\obj\Debug\KOMPOEN_VISUAL.Resources.resources
+D:\pertemuan2-KomponenVisual\KOMPOEN-VISUAL\KOMPOEN-VISUAL\obj\Debug\KOMPOEN-VISUAL.vbproj.GenerateResource.cache
+D:\pertemuan2-KomponenVisual\KOMPOEN-VISUAL\KOMPOEN-VISUAL\obj\Debug\KOMPOEN-VISUAL.vbproj.CoreCompileInputs.cache
+D:\pertemuan2-KomponenVisual\KOMPOEN-VISUAL\KOMPOEN-VISUAL\bin\Debug\KOMPOEN-VISUAL.exe.config
+D:\pertemuan2-KomponenVisual\KOMPOEN-VISUAL\KOMPOEN-VISUAL\bin\Debug\KOMPOEN-VISUAL.exe
+D:\pertemuan2-KomponenVisual\KOMPOEN-VISUAL\KOMPOEN-VISUAL\bin\Debug\KOMPOEN-VISUAL.pdb
+D:\pertemuan2-KomponenVisual\KOMPOEN-VISUAL\KOMPOEN-VISUAL\bin\Debug\KOMPOEN-VISUAL.xml
+D:\pertemuan2-KomponenVisual\KOMPOEN-VISUAL\KOMPOEN-VISUAL\obj\Debug\KOMPOEN-VISUAL.exe
+D:\pertemuan2-KomponenVisual\KOMPOEN-VISUAL\KOMPOEN-VISUAL\obj\Debug\KOMPOEN-VISUAL.xml
+D:\pertemuan2-KomponenVisual\KOMPOEN-VISUAL\KOMPOEN-VISUAL\obj\Debug\KOMPOEN-VISUAL.pdb
