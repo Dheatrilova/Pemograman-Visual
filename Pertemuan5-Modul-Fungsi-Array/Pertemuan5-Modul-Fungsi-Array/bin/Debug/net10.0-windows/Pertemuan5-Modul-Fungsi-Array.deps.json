@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Pertemuan5-Modul-Fungsi-Array/1.0.0": {
+        "runtime": {
+          "Pertemuan5-Modul-Fungsi-Array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pertemuan5-Modul-Fungsi-Array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,17 @@
+D:\PPT PRAKTIKUM PBO\Pertemuan5-Modul-Fungsi-Array\Pertemuan5-Modul-Fungsi-Array\bin\Debug\net10.0-windows\Pertemuan5-Modul-Fungsi-Array.exe
+D:\PPT PRAKTIKUM PBO\Pertemuan5-Modul-Fungsi-Array\Pertemuan5-Modul-Fungsi-Array\bin\Debug\net10.0-windows\Pertemuan5-Modul-Fungsi-Array.deps.json
+D:\PPT PRAKTIKUM PBO\Pertemuan5-Modul-Fungsi-Array\Pertemuan5-Modul-Fungsi-Array\bin\Debug\net10.0-windows\Pertemuan5-Modul-Fungsi-Array.runtimeconfig.json
+D:\PPT PRAKTIKUM PBO\Pertemuan5-Modul-Fungsi-Array\Pertemuan5-Modul-Fungsi-Array\bin\Debug\net10.0-windows\Pertemuan5-Modul-Fungsi-Array.dll
+D:\PPT PRAKTIKUM PBO\Pertemuan5-Modul-Fungsi-Array\Pertemuan5-Modul-Fungsi-Array\bin\Debug\net10.0-windows\Pertemuan5-Modul-Fungsi-Array.pdb
+D:\PPT PRAKTIKUM PBO\Pertemuan5-Modul-Fungsi-Array\Pertemuan5-Modul-Fungsi-Array\obj\Debug\net10.0-windows\Pertemuan5_Modul_Fungsi_Array.FrmArray.resources
+D:\PPT PRAKTIKUM PBO\Pertemuan5-Modul-Fungsi-Array\Pertemuan5-Modul-Fungsi-Array\obj\Debug\net10.0-windows\Pertemuan5-Modul-Fungsi-Array.vbproj.GenerateResource.cache
+D:\PPT PRAKTIKUM PBO\Pertemuan5-Modul-Fungsi-Array\Pertemuan5-Modul-Fungsi-Array\obj\Debug\net10.0-windows\Pertemuan5-Modul-Fungsi-Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\PPT PRAKTIKUM PBO\Pertemuan5-Modul-Fungsi-Array\Pertemuan5-Modul-Fungsi-Array\obj\Debug\net10.0-windows\Pertemuan5-Modul-Fungsi-Array.AssemblyInfoInputs.cache
+D:\PPT PRAKTIKUM PBO\Pertemuan5-Modul-Fungsi-Array\Pertemuan5-Modul-Fungsi-Array\obj\Debug\net10.0-windows\Pertemuan5-Modul-Fungsi-Array.AssemblyInfo.vb
+D:\PPT PRAKTIKUM PBO\Pertemuan5-Modul-Fungsi-Array\Pertemuan5-Modul-Fungsi-Array\obj\Debug\net10.0-windows\Pertemuan5-Modul-Fungsi-Array.vbproj.CoreCompileInputs.cache
+D:\PPT PRAKTIKUM PBO\Pertemuan5-Modul-Fungsi-Array\Pertemuan5-Modul-Fungsi-Array\obj\Debug\net10.0-windows\Pertemuan5-Modul-Fungsi-Array.dll
+D:\PPT PRAKTIKUM PBO\Pertemuan5-Modul-Fungsi-Array\Pertemuan5-Modul-Fungsi-Array\obj\Debug\net10.0-windows\refint\Pertemuan5-Modul-Fungsi-Array.dll
+D:\PPT PRAKTIKUM PBO\Pertemuan5-Modul-Fungsi-Array\Pertemuan5-Modul-Fungsi-Array\obj\Debug\net10.0-windows\Pertemuan5-Modul-Fungsi-Array.pdb
+D:\PPT PRAKTIKUM PBO\Pertemuan5-Modul-Fungsi-Array\Pertemuan5-Modul-Fungsi-Array\obj\Debug\net10.0-windows\Pertemuan5-Modul-Fungsi-Array.genruntimeconfig.cache
+D:\PPT PRAKTIKUM PBO\Pertemuan5-Modul-Fungsi-Array\Pertemuan5-Modul-Fungsi-Array\obj\Debug\net10.0-windows\ref\Pertemuan5-Modul-Fungsi-Array.dll
+D:\PPT PRAKTIKUM PBO\Pertemuan5-Modul-Fungsi-Array\Pertemuan5-Modul-Fungsi-Array\obj\Debug\net10.0-windows\Pertemua.F5FAB77A.Up2Date
