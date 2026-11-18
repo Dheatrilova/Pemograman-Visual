@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Tugas8_vispro/1.0.0": {
+        "runtime": {
+          "Tugas8_vispro.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tugas8_vispro/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

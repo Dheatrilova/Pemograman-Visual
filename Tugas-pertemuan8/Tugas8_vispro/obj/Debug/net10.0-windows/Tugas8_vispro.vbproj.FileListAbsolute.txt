@@ -1,0 +1,17 @@
+D:\visual2\Tugas8_vispro\Tugas8_vispro\bin\Debug\net10.0-windows\Tugas8_vispro.exe
+D:\visual2\Tugas8_vispro\Tugas8_vispro\bin\Debug\net10.0-windows\Tugas8_vispro.deps.json
+D:\visual2\Tugas8_vispro\Tugas8_vispro\bin\Debug\net10.0-windows\Tugas8_vispro.runtimeconfig.json
+D:\visual2\Tugas8_vispro\Tugas8_vispro\bin\Debug\net10.0-windows\Tugas8_vispro.dll
+D:\visual2\Tugas8_vispro\Tugas8_vispro\bin\Debug\net10.0-windows\Tugas8_vispro.pdb
+D:\visual2\Tugas8_vispro\Tugas8_vispro\obj\Debug\net10.0-windows\Tugas8_vispro.Form1.resources
+D:\visual2\Tugas8_vispro\Tugas8_vispro\obj\Debug\net10.0-windows\Tugas8_vispro.vbproj.GenerateResource.cache
+D:\visual2\Tugas8_vispro\Tugas8_vispro\obj\Debug\net10.0-windows\Tugas8_vispro.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual2\Tugas8_vispro\Tugas8_vispro\obj\Debug\net10.0-windows\Tugas8_vispro.AssemblyInfoInputs.cache
+D:\visual2\Tugas8_vispro\Tugas8_vispro\obj\Debug\net10.0-windows\Tugas8_vispro.AssemblyInfo.vb
+D:\visual2\Tugas8_vispro\Tugas8_vispro\obj\Debug\net10.0-windows\Tugas8_vispro.vbproj.CoreCompileInputs.cache
+D:\visual2\Tugas8_vispro\Tugas8_vispro\obj\Debug\net10.0-windows\Tugas8_vispro.dll
+D:\visual2\Tugas8_vispro\Tugas8_vispro\obj\Debug\net10.0-windows\refint\Tugas8_vispro.dll
+D:\visual2\Tugas8_vispro\Tugas8_vispro\obj\Debug\net10.0-windows\Tugas8_vispro.pdb
+D:\visual2\Tugas8_vispro\Tugas8_vispro\obj\Debug\net10.0-windows\Tugas8_vispro.genruntimeconfig.cache
+D:\visual2\Tugas8_vispro\Tugas8_vispro\obj\Debug\net10.0-windows\ref\Tugas8_vispro.dll
+D:\visual2\Tugas8_vispro\Tugas8_vispro\obj\Debug\net10.0-windows\Tugas8_v.B25F1233.Up2Date
