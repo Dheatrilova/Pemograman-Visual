@@ -1,0 +1,35 @@
+1. Control dalam Visual Studio
+Control adalah elemen antarmuka pengguna (UI) yang digunakan untuk membangun aplikasi di Visual Studio. Control memungkinkan pengguna berinteraksi dengan aplikasi melalui berbagai jenis input dan output.
+Control tersedia di jendela Toolbox, dikelompokkan dalam beberapa kategori, misalnya:
+Kategori	Contoh Control
+Common Controls	Button, CheckBox, ComboBox, Label, ListBox, PictureBox, RadioButton, TextBox, dll.
+Menus & Toolbars	MenuStrip, ContextMenuStrip, StatusStrip, ToolStrip
+Data	BindingSource, DataGridView
+Components	BackgroundWorker, ErrorProvider, Timer, dll.
+Printing	PrintDialog, PrintDocument, PrintPreviewDialog, dll.
+
+2. Form
+Form adalah jendela atau wadah utama tempat meletakkan komponen visual dalam aplikasi Visual Basic. Form berfungsi sebagai area kerja pengguna untuk berinteraksi dengan aplikasi, tempat menempatkan objek seperti tombol, label, textbox, dan kontrol lainnya.
+
+3. Button
+Command Button adalah tombol perintah yang berfungsi untuk menjalankan aksi tertentu saat diklik oleh pengguna, misalnya tombol OK, Cancel, Exit, atau Apply.
+
+4. Label
+Label digunakan untuk menampilkan teks statis sebagai keterangan atau informasi pada form. Label biasanya berfungsi menjelaskan isi dari input atau komponen lain.
+
+5. TextBox
+TextBox adalah kotak teks yang memungkinkan pengguna memasukkan atau mengedit data.
+
+6. Properti Penting pada Form dan Komponen
+Properti	Fungsi
+Name	Identitas unik komponen yang dipakai di kode program untuk pemanggilan
+Text	Teks yang terlihat oleh user pada komponen
+StartPosition (khusus Form)	Menentukan posisi awal Form saat dijalankan
+BackColor	Mengatur warna latar belakang komponen atau form
+ForeColor	Mengatur warna teks pada komponen
+Font	Mengatur jenis, ukuran, dan gaya tulisan
+Enable	Menentukan apakah komponen bisa digunakan user
+Visible	Menentukan apakah komponen ditampilkan atau disembunyikan
+
+8. Event
+Event adalah peristiwa atau kejadian yang terjadi pada suatu komponen yang bisa memicu jalannya kode program. Event muncul karena adanya interaksi pengguna atau perubahan status pada aplikasi.
