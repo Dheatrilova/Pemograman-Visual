@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="FrmCariList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmDariArray.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmDariList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmDataTable.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmUtama.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
