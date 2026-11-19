@@ -1,1 +1,52 @@
+Modul
+Modul adalah bagian dari program yang digunakan untuk mengelompokkan kode berdasarkan fungsi atau kebutuhan tertentu. Dengan Module, kode program dapat dipisahkan dari kode Form sehingga program menjadi lebih terstruktur dan mudah dikelola.
 
+Access Modifier
+Access Modifier adalah pengaturan yang menentukan tingkat akses terhadap suatu anggota program. Pada materi ini fokusnya adalah Public dan Private.
+
+Procedure
+Procedure adalah sekumpulan perintah yang dibuat untuk melakukan tugas tertentu dan dapat dipanggil ketika diperlukan. Pada VB.NET, Procedure dibuat menggunakan Sub.
+
+Fungsi
+Function adalah blok kode yang digunakan untuk melakukan suatu proses dan mengembalikan nilai. Function cocok digunakan ketika hasil dari suatu proses perlu digunakan kembali oleh bagian program lain.
+
+Array adalah struktur data yang digunakan untuk menyimpan beberapa nilai dalam satu variabel dengan tipe data yang sama. Setiap elemen array memiliki index. Pada VB.NET, index array dimulai dari 0.
+Array Satu Dimensi Jenis array paling sederhana yang menyimpan sekumpulan data secara linier dalam satu baris. Pengaksesan elemen hanya membutuhkan satu index.
+Array Multi-Dimensi Array yang memiliki dua dimensi atau lebih, membentuk struktur seperti matriks (baris dan kolom) atau ruang 3D. Seluruh baris dalam array ini wajib memiliki jumlah kolom yang sama.
+
+Koleksi Data adalah struktur data yang digunakan untuk menyimpan dan mengelola sekumpulan objek atau nilai. Koleksi Data menyediakan berbagai cara untuk:
+Menambahkan data
+Menghapus data
+Mengakses data
+Mencari data
+Mengiterasi data
+
+Jenis-jenis Koleksi Data
+	Array	List	Dictionary	Set
+Ukuran	Tetap	Dinamis	Dinamis	Dinamis
+Isi	Elemen bertipe data sama	Elemen bertipe data sama	Pasangan key-value	Data unik, tanpa duplikasi
+Akses	Index (mulai dari 0)	Index	Key	Tidak memiliki index
+
+Array adalah Koleksi data dengan ukuran tetap dan semua elemennya bertipe data sama.
+Ukuran tetap (tidak bisa berubah)
+Elemen bertipe data sama
+Diakses menggunakan index
+Index dimulai dari 0
+
+List adalah Koleksi data dinamis yang dapat bertambah atau berkurang ukurannya. Semua elemennya bertipe data sama.
+Ukuran dapat berubah (dinamis)
+Elemen bertipe data sama
+Diakses menggunakan index
+Memiliki banyak method untuk menambah, menghapus, dan lainnya
+
+Dictionary adalah Koleksi data dalam bentuk pasangan key-value. Setiap key bersifat unik dan digunakan untuk mengakses value.
+Menyimpan data dalam pasangan key-value
+Key bersifat unik (tidak boleh sama)
+Diakses menggunakan key
+Cocok untuk data yang memiliki label atau identitas
+
+Set adalah Koleksi data unik yang tidak mengizinkan adanya duplikasi. Setiap elemen hanya dapat muncul satu kali.
+Menyimpan data yang unik (tidak ada duplikasi)
+Elemen bertipe data sama
+Tidak memiliki index
+Cocok untuk menyimpan data dengan nilai yang tidak boleh sama
