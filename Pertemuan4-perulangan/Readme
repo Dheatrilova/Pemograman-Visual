@@ -1,1 +1,22 @@
+Perulangan (Looping)
+Perulangan adalah struktur kontrol yang menjalankan sebuah blok instruksi berulang kali selama kondisi tertentu terpenuhi (boolean true) atau sebanyak jumlah pengulangan yang ditetapkan.
 
+Fungsi dan Manfaat
+Mempermudah dan mempercepat pekerjaan berulang
+Menghindari penulisan kode manual
+Pengolahan data dalam jumlah besar
+Meningkatkan struktur dan pemeliharaan kode
+Fleksibilitas
+
+Tipe Perulangan
+Tipe	Penjelasan	Contoh
+Counted Loop	Jumlah pengulangan sudah diketahui atau terhitung, ada batas mulai dan akhir tertentu	For
+Uncounted Loop	Jumlah pengulangan tidak diketahui, perulangan dilakukan selama kondisi tertentu bernilai benar	While, Do Loop
+
+For-Next
+For-Next digunakan untuk mengulang perintah dengan jumlah pengulangan yang sudah pasti atau telah ditentukan di awal. Blok kode dijalankan sebanyak jumlah iterasi yang diinginkan tanpa perlu menentukan kondisi secara eksplisit di dalam blok perulangan.
+Do-Loop digunakan untuk kasus pengulangan dengan jumlah iterasi yang tidak diketahui sebelumnya. Perulangan terus berlanjut hingga kondisi berhenti terpenuhi.
+While digunakan ketika Kondisi dicek di awal. Perulangan hanya dijalankan jika kondisi awal bernilai true. Jika kondisi awal false, perulangan tidak dijalankan sama sekali.
+Do While itu Kondisi dicek di akhir. Perulangan dijalankan minimal satu kali, karena kondisi dicek setelah blok perintah dieksekusi
+Nested Loop adalah perulangan yang terdapat di dalam perulangan lainnya. Perulangan luar akan menjalankan perulangan dalam secara lengkap pada setiap iterasinya.
+Perulangan dalam (inner loop) dijalankan secara lengkap untuk setiap iterasi perulangan luar (outer loop).
