@@ -1,0 +1,65 @@
+Jenis Error dan Exception
+Tiga jenis error
+Jenis	Penjelasan
+Syntax error	Salah tulis kode, misalnya Dim x As Integr. Ditandai garis merah; program tidak bisa dijalankan sampai diperbaiki.
+Runtime error	Disebut juga exception. Muncul saat program berjalan, misalnya CInt("abc"). Program berhenti jika tidak ditangkap.
+Logic error	Program berjalan normal, tetapi hasilnya salah, misalnya rumus rata-rata keliru. Hanya ketahuan lewat pengujian.
+
+Exception yang sering muncul adalah objek: ex.Message berisi penjelasan singkat, sedangkan tipenya menunjukkan jenis masalah.
+Exception	Penyebab umum
+FormatException	Integer.Parse("abc"): teks bukan angka
+InvalidCastException	CInt("abc"): konversi gaya VB gagal
+OverflowException	Angka melebihi batas tipe data
+DivideByZeroException	Bilangan bulat dibagi 0 (operator \ atau Mod)
+IndexOutOfRangeException	Indeks array di luar batas
+NullReferenceException	Objek masih Nothing (belum dibuat dengan New)
+IOException	File dipakai program lain atau tidak bisa ditulis
+
+Try...Catch...Finally
+Cara kerja Try...Catch
+Baris di blok Try dijalankan berurutan. Begitu satu baris melempar exception, sisa baris Try dilewati dan eksekusi lompat ke Catch. Jika tidak ada exception, Catch dilewati. Setelah End Try, program tetap berjalan. Seperti jaring pengaman akrobat: tidak mencegah jatuh, tetapi pertunjukan bisa berlanjut.
+Tanpa exception	Exception di baris 2
+baris 1 dijalankan	baris 1 dijalankan
+baris 2 dijalankan	baris 2 melempar exception
+baris 3 dijalankan	baris 3 dilewati
+Catch dilewati	Catch dijalankan
+lanjut setelah End Try	lanjut setelah End Try
+
+Catch bertingkat
+Catch diperiksa dari atas ke bawah; hanya yang pertama cocok yang dijalankan. Letakkan yang spesifik di atas dan Exception paling bawah. Coba input: abc, 99999999999, 0, dan 25.
+
+Finally: selalu dijalankan
+Finally berjalan ada error atau tidak. Tempat beres-beres: menutup file, menutup koneksi, mengaktifkan tombol kembali.
+
+Kapan memakai Try...Catch
+Tepat dipakai:
+Operasi di luar kendali program, seperti membaca atau menulis file, koneksi database dan jaringan
+Konversi data dari sumber luar yang formatnya tidak bisa dijamin
+
+Tidak tepat:
+Menggantikan pengecekan biasa (input kosong cukup dengan If)
+Membungkus seluruh Sub dalam satu Try besar
+Catch kosong yang menelan error sehingga masalah tersembunyi
+
+Validasi Input
+Validasi berarti memeriksa input sebelum diproses. Untuk satu isian, periksa tipe datanya dulu, baru rentangnya: angkatan belum bisa dibandingkan dengan 2015 sebelum berhasil diubah menjadi angka.
+Aturan	Penerapan di form pendaftaran
+Wajib isi	Nama tidak boleh kosong
+Tipe data	Angkatan harus bilangan bulat
+Rentang	Angkatan 2015 s.d. tahun ini, IPK 0,00 s.d. 4,00
+Format	NIM tepat 9 digit angka
+Pilihan	Jurusan dipilih dari ComboBox
+Unik	NIM belum pernah didaftarkan
+
+CInt, Val, atau TryParse?
+Val tidak pernah error, dan justru itu bahayanya: data yang salah tersimpan diam-diam. CInt melempar exception. Untuk validasi, pakai TryParse: hasilnya True atau False tanpa exception.
+Input	CInt(teks)	Val(teks)	Integer.TryParse
+abc	InvalidCastException	0	False
+12abc	InvalidCastException	12	False
+3,5	35 atau 4 (*)	3	False
+99999999999	OverflowException	99999999999	False
+(kosong)	InvalidCastException	0	False
+
+ErrorProvider
+Lima isian salah berarti lima MessageBox beruntun, dan setelah ditutup pengguna lupa isian mana yang salah.
+ErrorProvider memasang ikon merah di samping kontrol; pesannya muncul saat kursor diarahkan. Komponen ini tampil di component tray, bukan di atas form.
