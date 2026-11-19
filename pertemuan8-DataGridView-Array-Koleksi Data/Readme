@@ -1,0 +1,12 @@
+DataGridView
+DataGridView (prefix dgv, ada di Toolbox grup Data) menampilkan data dalam baris dan kolom, seperti lembar kerja Excel.
+Satu sel diakses lewat Rows(1).Cells(2).Value: baris indeks 1, kolom indeks 2. Seperti Array, indeks dimulai dari 0.
+
+Mengisi Grid
+Dua cara mengisi grid
+Cara	Penjelasan
+Cara 1: Manual (unbound)	Kolom dibuat sendiri, lalu baris ditambah satu per satu dengan Rows.Add. Data disimpan di grid itu sendiri. Cocok untuk data sedikit dan statis.
+Cara 2: Lewat DataSource (bound)	Grid mengikuti isi sumber data (List, DataTable) dan kolom bisa dibuat otomatis. Cocok untuk hampir semua kasus nyata.
+
+DataTable
+DataTable adalah tabel di memori. Kolom punya nama dan tipe (Columns.Add). Baris diisi sesuai urutan kolom (Rows.Add); nilai yang tidak cocok dengan tipe kolom menghasilkan exception.
