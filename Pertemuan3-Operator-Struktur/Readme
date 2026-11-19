@@ -1,0 +1,83 @@
+Operator
+Operator adalah simbol khusus yang digunakan untuk melakukan operasi tertentu pada satu atau lebih nilai, yang disebut operand.
+
+Jenis operator:
+Operator Aritmatika
+Operator Penugasan
+Operator Perbandingan
+Operator Logika
+Operator Increment dan Decrement
+Operator Aritmatika
+
+Simbol yang digunakan untuk melakukan operasi matematika dasar pada nilai numerik atau variabel.
+Simbol	Nama Operator	Deskripsi	Contoh
++	Penjumlahan	Menjumlahkan dua nilai	5 + 3 = 8
+-	Pengurangan	Mengurangi nilai satu dengan nilai lain	7 - 4 = 3
+*	Perkalian	Mengalikan dua nilai	6 * 2 = 12
+/	Pembagian	Membagi nilai satu dengan nilai lain	10 / 2 = 5
+%	Modulus (sisa bagi)	Menghasilkan sisa pembagian	10 % 3 = 1
+Operator Penugasan
+
+Operator penugasan (assignment operator) digunakan untuk memberikan nilai ke sebuah variabel.
+Simbol	Nama Operator	Deskripsi	Ekuivalen	Contoh
+=	Penugasan sederhana	Memberikan nilai ke variabel	a = b	x = 10
++=	Tambah dan tugas	Menambahkan nilai ke variabel	a = a + b	x += 5
+-=	Kurang dan tugas	Mengurangi nilai dari variabel	a = a - b	x -= 3
+*=	Kali dan tugas	Mengalikan nilai dengan variabel	a = a * b	x *= 2
+/=	Bagi dan tugas	Membagi nilai dengan variabel	a = a / b	x /= 4
+%=	Modulus dan tugas	Mengambil sisa bagi ke variabel	a = a % b	x %= 3
+Operator Perbandingan
+
+Simbol yang digunakan untuk membandingkan dua nilai (angka atau teks) dan menghasilkan nilai boolean (True/False).
+Simbol	Nama Operator	Deskripsi	Contoh
+=	Sama dengan	Mengecek apakah dua nilai sama	5 = 5 -> True
+<>	Tidak sama dengan	Mengecek apakah dua nilai tidak sama	5 <> 3 -> True
+>	Lebih besar dari	Mengecek apakah nilai kiri lebih besar dari nilai kanan	7 > 3 -> True
+<	Lebih kecil dari	Mengecek apakah nilai kiri lebih kecil dari nilai kanan	2 < 4 -> True
+>=	Lebih besar atau sama dengan	Mengecek apakah nilai kiri lebih besar atau sama dengan nilai kanan	5 >= 5 -> True
+<=	Lebih kecil atau sama dengan	Mengecek apakah nilai kiri lebih kecil atau sama dengan nilai kanan	3 <= 7 -> True
+Operator Logika
+
+Simbol atau kata yang menghubungkan beberapa ekspresi boolean untuk menghasilkan satu nilai kebenaran berdasarkan nilai kebenaran dari ekspresi-ekspresi tersebut.
+Operator	Simbol	Nama	Deskripsi
+AND	And	Dan	True hanya jika kedua kondisi bernilai True
+OR	Or	Atau	True jika salah satu atau kedua kondisi bernilai True
+NOT	Not	Bukan	Membalikkan nilai logika. True menjadi False, dan sebaliknya
+XOR	Xor	Eksklusif atau	True jika salah satu kondisi True, tetapi tidak keduanya
+NOR	Not (A Or B)	Bukan atau	Kebalikan dari OR. True hanya jika kedua kondisi bernilai False
+NAND	Not (A And B)	Bukan dan	Kebalikan dari AND. True kecuali jika kedua kondisi bernilai True
+Operator Increment dan Decrement
+
+Operator increment (++) menambahkan nilai variabel sebanyak satu, sedangkan operator decrement (--) mengurangi nilai variabel sebanyak satu.
+Kategori	Operator	Nama	Deskripsi	Contoh
+Increment (+1)	++x	Pre-increment	Menambah nilai variabel terlebih dahulu, kemudian digunakan	x = ++x
+Increment (+1)	x++	Post-increment	Menggunakan nilai variabel dahulu, kemudian menambah nilai variabel	x = x++
+Increment (+1)	x += 1	Increment singkatan	Menambah nilai variabel sebesar 1 (bentuk singkatan)	x += 1
+Decrement (-1)	--x	Pre-decrement	Mengurangi nilai variabel terlebih dahulu, kemudian digunakan	x = --x
+Decrement (-1)	x--	Post-decrement	Menggunakan nilai variabel dahulu, kemudian mengurangi nilai variabel	x = x--
+Decrement (-1)	x -= 1	Decrement singkatan	Mengurangi nilai variabel sebesar 1 (bentuk singkatan)	x -= 1
+
+Ekspresi
+Ekspresi adalah kombinasi dari nilai, variabel, operator, dan panggilan metode yang dievaluasi menjadi satu nilai tunggal. Ekspresi adalah blok kode yang menghasilkan sebuah nilai dan dapat digunakan di mana pun nilai dibutuhkan. Dengan kata lain, ekspresi adalah potongan kode yang menghasilkan suatu nilai ketika dijalankan.
+
+Percabangan
+Percabangan adalah struktur kontrol alur program yang digunakan untuk menentukan jalannya eksekusi berdasarkan kondisi tertentu (benar atau salah).
+
+Jenis percabangan:
+If Statement
+If - Else Statement
+If - Else if Statement
+Switch Statement
+Operator Ternary
+If Statement
+
+Percabangan yang hanya memiliki satu blok pilihan saat kondisi bernilai benar. Jika kondisi salah, program langsung lanjut ke selesai.
+If Else Statement
+Menjalankan satu blok kode jika kondisi benar, dan blok lain jika salah.
+If Else If Statement
+Digunakan jika ada beberapa kondisi yang harus diperiksa. Kondisi diperiksa berurutan, dan jika semuanya salah maka blok terakhir yang dijalankan.
+Switch Statement
+Alternatif dari if...else yang banyak, lebih rapi jika memilih berdasarkan nilai variabel. Di Visual Basic ditulis dengan Select Case.
+
+Operator Ternary
+Percabangan singkat dalam satu baris (pengganti if...else).
