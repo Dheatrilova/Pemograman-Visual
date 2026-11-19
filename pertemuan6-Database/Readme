@@ -1,0 +1,20 @@
+Database
+Database adalah kumpulan data terstruktur yang disimpan agar bisa diakses, dikelola, dan dimanipulasi oleh aplikasi. Dalam aplikasi, database menyimpan informasi penting sehingga aplikasi bisa menyajikan, mengubah, dan menjaga konsistensi data.
+
+PostgreSQL
+PostgreSQL (sering disebut Postgres) adalah sistem manajemen basis data relasional objek (ORDBMS) kelas atas yang bersifat sumber terbuka (open-source). Sistem ini menggunakan dan memperluas bahasa SQL untuk menyimpan, mengelola, dan mengambil data secara aman dan efisien.
+
+Supabase
+Supabase adalah platform Backend-as-a-Service (BaaS) yang membungkus PostgreSQL menjadi solusi siap pakai. Jika PostgreSQL adalah "mesin" utamanya, Supabase adalah "pabrik" lengkap dengan panel kendali (API, Auth, Dashboard) agar pengembang bisa langsung membuat aplikasi tanpa harus membangun infrastruktur dari nol.
+
+Npgsql
+Npgsql adalah data provider ADO.NET sumber terbuka (open-source) yang berfungsi sebagai "jembatan" penghubung utama antara aplikasi .NET (seperti C#, F#, atau VB.NET) dengan database PostgreSQL.
+
+Alur hubungan:
+Aplikasi VB.NET  <-->  Npgsql  <-->  PostgreSQL (di Supabase)
+Komponen Npgsql
+Komponen	Fungsi
+NpgsqlConnection	Membuat, membuka, dan mengelola jalur koneksi fisik (sesi) antara aplikasi .NET dengan database PostgreSQL
+NpgsqlCommand	Mendefinisikan dan mengeksekusi kueri teks SQL (seperti SELECT, INSERT, UPDATE, DELETE) atau stored procedure terhadap database melalui koneksi yang sudah dibuka
+NpgsqlDataAdapter	Perantara yang mengambil kumpulan data dari PostgreSQL untuk disimpan ke dalam memori aplikasi (seperti DataTable atau DataSet), serta mengirimkan kembali perubahan data dari memori ke database
+NpgsqlCommandBuilder	Pembuat kueri INSERT, UPDATE, dan DELETE otomatis untuk NpgsqlDataAdapter berdasarkan kueri SELECT, sehingga tidak perlu menulis kueri modifikasi secara manual
