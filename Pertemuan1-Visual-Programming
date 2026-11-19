@@ -1,1 +1,39 @@
+1. Pengertian Visual Programming
+Visual Programming adalah pendekatan pemrograman yang memungkinkan pengembangan program dilakukan melalui manipulasi elemen grafis seperti blok, diagram, dan komponen visual sebagai representasi struktur dan logika program.
 
+2. Karakteristik Visual Programming
+Logika program direpresentasikan lewat blok, diagram, atau elemen grafis yang saling terhubung sesuai alur program.
+Komponen program dan antarmuka disusun dengan drag-and-drop, sehingga perancangan lebih intuitif.
+Perubahan pada rancangan atau struktur program dapat diamati secara langsung, sehingga memudahkan evaluasi dan pengembangan.
+
+3. Tujuan dan Manfaat Visual Programming
+Mempermudah pemahaman konsep dasar pemrograman.
+Menyajikan alur program secara visual dan terstruktur.
+Mempersiapkan pengguna sebelum mempelajari sintaks kode.
+Meminimalkan kesalahan dalam penulisan kode.
+
+4. Keterbatasan Visual Programming
+Fleksibilitas terbatas
+Kurang efisien untuk proyek besar
+Ketergantungan pada platform
+
+5. Platform Visual Programming
+Platform	Keterangan
+Scratch	Pemrograman berbasis blok yang disusun untuk mengatur karakter (sprite) pada sebuah stage.
+MIT App Inventor	Pemrograman berbasis blok untuk membuat aplikasi, dengan tampilan blok dan viewer.
+Visual Basic	Pemrograman dengan IDE dari Microsoft untuk membangun aplikasi secara visual.
+JavaFX	Perancangan antarmuka lewat Scene Builder (komponen visual dengan panel properti).
+
+6. Visual Basic
+Visual Basic adalah bahasa pemrograman dari Microsoft yang menyediakan Integrated Development Environment (IDE) untuk membangun aplikasi dengan pendekatan visual.
+
+7. Visual Studio
+Visual Studio adalah Integrated Development Environment (IDE) yang dikembangkan oleh Microsoft, digunakan untuk menulis, mengedit, menjalankan, dan melakukan debugging program.
+
+8. .NET
+.NET adalah platform pengembangan dan kerangka kerja multiplatform serta open-source dari Microsoft yang mendukung pengembangan aplikasi dengan berbagai bahasa pemrograman.
+
+Bahasa yang dapat digunakan pada .NET:
+C#
+F#
+VB.NET
